@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/outline_content_copy_white_24dp.png</file>
+    <file>icons/outline_refresh_white_24dp.png</file>
+    <file>icons/outline_search_white_24dp.png</file>
+    <file>icons/outline_visibility_off_white_24dp.png</file>
+    <file>icons/outline_visibility_white_24dp.png</file>
+    <file>icons/outline_vpn_key_white_24dp.png</file>
+    <file>icons/outline_delete_white_24dp.png</file>
+    <file>icons/outline_post_add_white_24dp.png</file>
+  </qresource>
+</RCC>
